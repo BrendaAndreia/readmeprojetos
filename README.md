@@ -4,6 +4,7 @@
   <a href="https://portfoliobedeveloper.vercel.app/"><img src="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/img/icon.png?raw=true" alt="Be Developer" width="200"></a>
   <br>
   <h4>Icone do projeto</h4>
+  <br>
   (Título do projeto)
   <br>
 </h1>
