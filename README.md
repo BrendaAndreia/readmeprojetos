@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="https://portfoliobedeveloper.vercel.app/"><img src="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/img/icon.png?raw=true" alt="Be Developer" width="200"></a>
+  <a href="https://portfoliobedeveloper.vercel.app/"><img src="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/img/icon.png?raw=true" alt="Be Developer" width="200"></a>(ICONE DO PROJETO)
   <br>
-  Bê Developer (Título do projeto)
+  (Título do projeto)
   <br>
 </h1>
 
