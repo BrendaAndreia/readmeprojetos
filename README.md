@@ -1,8 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="https://portfoliobedeveloper.vercel.app/"><img src="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/img/icon.png?raw=true" alt="Be Developer" width="200"></a> ### (ICONE DO PROJETO)
+  <a href="https://portfoliobedeveloper.vercel.app/"><img src="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/img/icon.png?raw=true" alt="Be Developer" width="200"></a>
   <br>
+  <h5>Icone do projeto</h5>
   (Título do projeto)
   <br>
 </h1>
@@ -18,7 +19,7 @@
  - <a href="#statuso-do-projeto">Status do projeto</a>
 </p>
 
-![screenshot](https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true)(Exemplo)
+![screenshot](https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true) <h5>(Exemplo)</h5>
 
 ### Funcionalidades
 ### Tecnologias utilizadas
