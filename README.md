@@ -3,7 +3,7 @@
   <br>
   <a href="https://portfoliobedeveloper.vercel.app/"><img src="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/img/icon.png?raw=true" alt="Be Developer" width="200"></a>
   <br>
-  <h5>Icone do projeto</h5>
+  <h4>Icone do projeto</h4>
   (Título do projeto)
   <br>
 </h1>
@@ -19,7 +19,7 @@
  - <a href="#statuso-do-projeto">Status do projeto</a>
 </p>
 
-![screenshot](https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true) <h5>(Exemplo)</h5>
+![screenshot](https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true) <h4>(Exemplo)</h4>
 
 ### Funcionalidades
 ### Tecnologias utilizadas
