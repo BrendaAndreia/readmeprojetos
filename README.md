@@ -29,7 +29,9 @@
 
 
 > [bedeveloper.com.br](https://www.bedeveloper.com.br) &nbsp;&middot;&nbsp;
+> 
 > [GitHub](https://www.github.com/brendaandreia) &nbsp;&middot;&nbsp;
+> 
 > [LinkedIn](https://www.linkedin/in/brendaandreia)
 
 
